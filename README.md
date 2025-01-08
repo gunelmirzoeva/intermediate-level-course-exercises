@@ -1,1 +1,1 @@
-# gunelmirzoeva-intermediate-level-course-exercises
+# intermediate-level-course-exercises
